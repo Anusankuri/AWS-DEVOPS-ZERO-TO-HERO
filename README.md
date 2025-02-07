@@ -1,5 +1,3 @@
-# AWS-DEVOPS-ZERO-TO-HERO
-AWS-DEVOPS-ZEROAWS EKS
 Introduction
 Table of Contents:
 Understanding Kubernetes Fundamentals
